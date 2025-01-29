@@ -19,10 +19,10 @@ format-links: [pdf]
 ```{python}
 #| tags: [parameters]
 
-email = 'j@jhathaway.io'
-github = 'hathawayj'
-linkedin =  'hathawayj'
-telephone = '208.932.8306'
+email = 'annakamcclelland@gmail.com'
+github = 'replace'
+linkedin =  'www.linkedin.com/in/annaka-mcc'
+telephone = '208.6277299'
 ```
 
 ```{python}
@@ -35,7 +35,7 @@ ____
 :::: {.columns}
 
 ::: {.column width="22%"}
-I want to email here is my `{python} Markdown(f'[{email}](mailto:{email})')`
+`{python} Markdown(f'[{email}](mailto:{email})')`
 :::
 
 ::: {.column width="1%"}
@@ -66,23 +66,13 @@ I want to email here is my `{python} Markdown(f'[{email}](mailto:{email})')`
 ____
 
 
-
 ::: {.print-only .contact-block}
-cynthia.huang@monash.edu
+annakamcclelland@gmail.com
 :::
-
-
-## EDUCATION
-
-**Doctor of Philosophy -- Econometrics and Business Statistics** <br> *Monash University* [*Aug 2021 --- Present*]{.cvdate}
-
--   New principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images
--   Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
--   Expected submission date: Nov 2024
 
 ## WORK EXPERIENCE{style="page-break-before: always"}
 
-### Data Scientist
+### Technical Data Analyst
 
 ***Freelance, Multiple Clients*** [Jan 2020 -- June 2021]{.cvdate}
 
@@ -90,6 +80,15 @@ Providing data collection, pre-processing, exploratory analysis and modelling se
 
 -   Data description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.
 -   Development of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package.
+
+## EDUCATION
+
+**Bachelors -- Data Science** <br> *BYU-I* [*Sept 2021 --- Jul 2025*]{.cvdate}
+
+-   New principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images
+-   Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
+-   Expected submission date: Nov 2024
+
 
 ::: {.no-print}
 ## PRESENTATIONS AND WORKSHOPS
